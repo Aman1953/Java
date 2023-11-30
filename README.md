@@ -1,2 +1,2 @@
-# Java
-ArrayList vs Vector in Java
+
+# ArrayList vs Vector in Java
